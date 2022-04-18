@@ -1,0 +1,1 @@
+new_account.aadhar=aadhar,new_account.first_name=first_name,new_account.last_name=last_name,new_account.gender=gender,new_account.age=age,new_account.phone_num=phone_num;
